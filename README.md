@@ -20,9 +20,11 @@ This project provides a **comprehensive, data-driven analysis of Golden Globe Aw
 
 ![Screenshot 2025-05-23 224731](https://github.com/user-attachments/assets/f01870df-14bb-4c39-96c7-eac5f013dcba)
 
+### **1️⃣ Power BI Dashboards**
 ![Screenshot 2025-05-23 225100](https://github.com/user-attachments/assets/b399e353-4ac1-4d5c-ad58-f9b874129e4f)
 
-**visualization**
+## 📊 Visualization
+
 
 ![Screenshot 2025-05-23 230429](https://github.com/user-attachments/assets/92ea2f2c-9c36-4eb8-b32c-50abe8b3b8eb)
   This visualization shows that the best performance by an actress in a supporting role in any motion picture has the highest nominations. If we look at the bottom rectangle Television producer and International News Coverage have very few. This gives a quick overview of which categories are historically most prominent in the dataset.
