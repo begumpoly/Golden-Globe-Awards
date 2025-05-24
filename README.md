@@ -59,7 +59,7 @@ The data suggests a bias in Golden Globe award distribution, with films consiste
 ![Screenshot 2025-05-23 233644](https://github.com/user-attachments/assets/7325b3bb-8e10-43f5-8969-15678a7a3919)
 ![Screenshot 2025-05-23 233708](https://github.com/user-attachments/assets/f37f64e5-2508-4db9-8b75-05adbafcf54e)
 
-  These plots help address the goals: the first identifies top recurring winners, and the second explores shifts in category dominance (specifically Film vs. TV) and potential systemic bias in win rates between these two major media types over time.
+  These plots address the goals: the first identifies top recurring winners, and the second explores shifts in category dominance (specifically Film vs. TV) and potential systemic bias in win rates between these two major media types over time.
 
 ![Screenshot 2025-05-18 132824](https://github.com/user-attachments/assets/5702a4cd-1d28-42e8-a46c-6f7745c3cab2)
 
