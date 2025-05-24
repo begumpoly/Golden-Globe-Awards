@@ -1,8 +1,8 @@
 # Analysis of Golden-Globe-Awards
-![Screenshot 2025-05-23 225100](https://github.com/user-attachments/assets/b399e353-4ac1-4d5c-ad58-f9b874129e4f)
 
 ![Screenshot 2025-05-23 224731](https://github.com/user-attachments/assets/f01870df-14bb-4c39-96c7-eac5f013dcba)
 
+![Screenshot 2025-05-23 225100](https://github.com/user-attachments/assets/b399e353-4ac1-4d5c-ad58-f9b874129e4f)
 
 
 
