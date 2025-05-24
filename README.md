@@ -59,7 +59,7 @@ The data suggests a bias in Golden Globe award distribution, with films consiste
   These plots help address the goals: the first identifies top recurring winners, and the second explores shifts in category dominance (specifically Film vs. TV) and potential systemic bias in win rates between these two major media types over time.
 
 ![Screenshot 2025-05-18 132824](https://github.com/user-attachments/assets/5702a4cd-1d28-42e8-a46c-6f7745c3cab2)
-   pie chart presents a visual breakdown of the success rates within the Golden Globe Awards film category, illustrating the proportion of winners compared to nominees who did not secure an award. It provides a clear comparison between those who triumphed and those who fell short, offering insight into the competition's overall landscape.
+   Pie chart presents a visual breakdown of the success rates within the Golden Globe Awards film category, illustrating the proportion of winners compared to nominees who did not secure an award. It provides a clear comparison between those who triumphed and those who fell short, offering insight into the competition's overall landscape.
 
 
    ## 🎬 Conclusion
