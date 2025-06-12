@@ -20,8 +20,9 @@ This project provides a **comprehensive, data-driven analysis of Golden Globe Aw
 
 ![Screenshot 2025-05-23 224731](https://github.com/user-attachments/assets/f01870df-14bb-4c39-96c7-eac5f013dcba)
 
-### ** Power BI Dashboards**
-![Screenshot 2025-05-23 225100](https://github.com/user-attachments/assets/b399e353-4ac1-4d5c-ad58-f9b874129e4f)
+### Power BI Dashboards
+
+![Screenshot 2025-06-12 004426](https://github.com/user-attachments/assets/4c009af4-24fa-4acb-bfb6-0f9c27744fff)
 
 ## 📊 Visualization
 
