@@ -27,26 +27,31 @@ This project provides a **comprehensive, data-driven analysis of Golden Globe Aw
 ## 📊 Visualization
 
 
-![Screenshot 2025-05-23 230429](https://github.com/user-attachments/assets/92ea2f2c-9c36-4eb8-b32c-50abe8b3b8eb)
   This visualization shows that the best performance by an actress in a supporting role in any motion picture has the highest nominations. If we look at the bottom rectangle Television producer and International News Coverage have very few. This gives a quick overview of which categories are historically most prominent in the dataset.
   
-![Screenshot 2025-05-23 230629](https://github.com/user-attachments/assets/de9b808b-94a9-47a9-993a-e40342ac9fb8)
+![Screenshot 2025-05-23 230429](https://github.com/user-attachments/assets/92ea2f2c-9c36-4eb8-b32c-50abe8b3b8eb)
+
   It breaks down the actor-specific awards, showing which types of acting roles  have the most nominations for male actors.
-  
-![Screenshot 2025-05-23 230650](https://github.com/user-attachments/assets/4c6a285c-84aa-405d-83c0-8533ae82c15e)
+
+![Screenshot 2025-05-23 230629](https://github.com/user-attachments/assets/de9b808b-94a9-47a9-993a-e40342ac9fb8)
+
   This shows the distribution of nominations for female actors across different role types and media.
   
-![Screenshot 2025-05-23 230744](https://github.com/user-attachments/assets/9560b25c-1c66-4313-8619-7388b8a12a8b)
+![Screenshot 2025-05-23 230650](https://github.com/user-attachments/assets/4c6a285c-84aa-405d-83c0-8533ae82c15e)
+
   This plot illustrates the historical growth or fluctuation in the sheer number of Golden Globe awards presented or nominated for each year. You can observe trends expansion and contraction from 1944 to 1980, but from 1980 onward, the number of awards reached a relatively consistent average, suggesting an established selection process.
+  
+![Screenshot 2025-05-23 230744](https://github.com/user-attachments/assets/9560b25c-1c66-4313-8619-7388b8a12a8b)
+
   
 ![Screenshot 2025-05-23 230828](https://github.com/user-attachments/assets/0544165e-a8b2-4126-bf15-1a9ab4c0066a)
 ![Screenshot 2025-05-23 230845](https://github.com/user-attachments/assets/d2a37044-16bc-44d4-969a-18f29f0903b9)
 ![Screenshot 2025-05-23 230901](https://github.com/user-attachments/assets/292ca6a8-7f06-468e-b5e5-b96fd4761d5a)
 ![Screenshot 2025-05-23 230914](https://github.com/user-attachments/assets/b6b612d2-8ae1-42b5-9d31-c6e9d96ba058)
- The plot shows a steady increase in film entries at the Golden Globes, followed by stabilization after 1980. This suggests industry growth and a more structured nomination process.
+  The plot shows a steady increase in film entries at the Golden Globes, followed by stabilization after 1980. This suggests industry growth and a more structured nomination process.
  
 ![Screenshot 2025-05-23 230946](https://github.com/user-attachments/assets/f2249411-ebcf-4bf8-b337-cae585732f58)
-The data suggests a bias in Golden Globe award distribution, with films consistently receiving more recognition than television shows. Historically, film awards have outnumbered TV awards, reinforcing the perception that movies hold greater prestige. While television awards have increased over time, the disparity remains, indicating an institutional preference for film. Addressing this bias could lead to a more balanced recognition of achievements across both industries.we will explore more by performing the statistical data.
+  The data suggests a bias in Golden Globe award distribution, with films consistently receiving more recognition than television shows. Historically, film awards have outnumbered TV awards, reinforcing the perception that movies hold greater prestige. While television awards have increased over time, the disparity remains, indicating an institutional preference for film. Addressing this bias could lead to a more balanced recognition of achievements across both industries.we will explore more by performing the statistical data.
 
 ![Screenshot 2025-05-23 231029](https://github.com/user-attachments/assets/b7a0bc7e-0fd5-48c4-bde3-9950905f52f4)
 ![Screenshot 2025-05-23 233314](https://github.com/user-attachments/assets/5b67362a-defe-4a13-8098-8722513aecc1)
