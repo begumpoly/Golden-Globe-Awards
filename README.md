@@ -40,6 +40,9 @@ This project provides a **comprehensive, data-driven analysis of Golden Globe Aw
 ![Screenshot 2025-05-23 230650](https://github.com/user-attachments/assets/4c6a285c-84aa-405d-83c0-8533ae82c15e)
 
   This plot illustrates the historical growth or fluctuation in the sheer number of Golden Globe awards presented or nominated for each year. You can observe trends expansion and contraction from 1944 to 1980, but from 1980 onward, the number of awards reached a relatively consistent average, suggesting an established selection process.
+  ### Total Awards for Top 10 Nominees by Decade
+
+This bar chart visualizes the cumulative awards received by ten iconic nominees across multiple decades. Error bars reflect variability in recognition, offering insight into trends and disparities in award distribution.
   
 ![Screenshot 2025-05-23 230744](https://github.com/user-attachments/assets/9560b25c-1c66-4313-8619-7388b8a12a8b)
 
