@@ -25,9 +25,9 @@ This project provides a **comprehensive, data-driven analysis of Golden Globe Aw
 ![Screenshot 2025-06-12 004426](https://github.com/user-attachments/assets/4c009af4-24fa-4acb-bfb6-0f9c27744fff)
 
 ## 📊 Visualization
+### Proportion of Award Categories
 
-
-  This visualization shows that the best performance by an actress in a supporting role in any motion picture has the highest nominations. If we look at the bottom rectangle Television producer and International News Coverage have very few. This gives a quick overview of which categories are historically most prominent in the dataset.
+This treemap visualizes the relative frequency of award categories across film and television. Each rectangle’s size reflects the proportion of that category in the dataset, offering insight into which types of awards are most prevalent. This gives a quick overview of which categories are historically most prominent in the dataset.
   
 ![Screenshot 2025-05-23 230429](https://github.com/user-attachments/assets/92ea2f2c-9c36-4eb8-b32c-50abe8b3b8eb)
 
